@@ -26,7 +26,7 @@
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:gravity="center"
-            android:text="生日快乐"
+            android:text="祝你生日快乐"
             android:textColor="#DDAB9E"
             android:textSize="24sp" />
 
